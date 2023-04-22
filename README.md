@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sophtbow
+- 👋 Hi, I’m Sophia
 - 👀 I’m interested in machine learning, space, and environmental applications of computer science.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and web development.
 - 💞️ I’m looking to collaborate on any projects. 
 
 
